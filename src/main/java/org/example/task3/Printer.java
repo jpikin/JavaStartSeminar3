@@ -25,9 +25,9 @@ class Answer {
             sum += arr[i];
         }
         System.out.println(list);
-        System.out.println("Minimim is " + arr[0]);
+        System.out.println("Minimum is " + arr[0]);
         System.out.println("Maximum is " + arr[arr.length-1]);
-        System.out.println("Average is " + sum/list.size());
+        System.out.println("Average is = " + sum/list.size());
     }
 }
 
